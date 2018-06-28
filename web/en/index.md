@@ -27,7 +27,7 @@ possibility of remote work will be a pleasure for me...
 >  * Back-end part of donate (Python, Flask, SQL)
 >  * Digital design (Photoshop)
 >
-> **Link:** https://magicofgods.ru
+> **Link:** [https://magicofgods.ru](https://magicofgods.ru)
 
 ## Skills
 Languages & Frameworks:

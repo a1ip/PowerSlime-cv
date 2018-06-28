@@ -27,7 +27,7 @@
 > * Back-end часть обработки донатов (Python, Flask, SQL)
 > * Цифровой дизаин (Photoshop)
 >
-> **Ссылка:** https://magicofgods.ru
+> **Ссылка:** [https://magicofgods.ru](https://magicofgods.ru)
 
 ## Навыки
 Языки и фреймворки:
