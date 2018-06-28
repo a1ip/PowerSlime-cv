@@ -83,4 +83,4 @@
 # Портфолио
 Не забывайте посмотреть мою страницу, там есть несколько примеров моих работ:
 
-https://powerslime.github.io/
+[https://powerslime.github.io/](https://powerslime.github.io/)

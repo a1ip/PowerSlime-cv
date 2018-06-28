@@ -1,4 +1,4 @@
 # Covaliuc Dionisie
-| Choose your language | Выберите язык |
-| -- | -- |
-| [EN](./web/en/index.md) | [RU](./web/ru/index.md) |
+
+[English version](./web/en/index.md)
+[Русская версия](./web/ru/index.md)
