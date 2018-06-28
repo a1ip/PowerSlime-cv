@@ -1,76 +1,86 @@
-# Откройте CV
-1. [PDF](./RU_Covaliuc_Dionisie_Optimized.pdf)
-2. [JPG](./RU_Covaliuc_Dionisie.jpg) (Если есть проблемы при открытии PDF)
+# Open CV
+1. [PDF](./EN_Covaliuc_Dionisie_Optimized.pdf)
+2. [JPG](./EN_Covaliuc_Dionisie.jpg) (If you have problems with PDF)
 
-Ниже текстовая версия, на случай, если проблемы с открытием обоих форматов.
+There is text version below if you have problems with both of formats.
 # Covaliuc Dionisie
-> Front-end разработчик
+> Front-end developer
 
 ![2014 year](../photo.jpg)
 
-Мне 18 лет, живу в Молдове.
-Я хочу стать **fullstack web-разработчиком**.
-Мой любимый язык - Python.
+I’m 18, live in Moldova,
+I want to become a **fullstack web-developer**.
+My favorite language is Python.
 
-Я ищу любую работу, которая связанна с front-end веб-разработкой.
-Это может быть частичная или полная занятость, не важно. Так же
-возможность удаленной работы будет приятна для меня...
+I’m searching for any kind of job which is related with front-end web
+development. It can be part or full time job, no matter. Also the
+possibility of remote work will be a pleasure for me...
 
-## Опыт работы
+## Work experience
 > *01/12/2017*
-> **Приватный игровой сервер Magic of Gods**
-> *некоммерческий*
+> **Private game server Magic of Gods**
+> *(non-commercial)*
 >
-> В мои обязанности входило:
-> * Верстка страниц (HTML, CSS, Sass, Pug, Gulp)
-> * Front-end часть стрицы донатов (JavaScript, jQuery)
-> * Back-end часть обработки донатов (Python, Flask, SQL)
-> * Цифровой дизаин (Photoshop)
+> In my responsibilities was:
+> * Web design (HTML, CSS, Sass, Pug, Gulp)
+>  * Front-end part of donate page (JavaScript, jQuery)
+>  * Back-end part of donate (Python, Flask, SQL)
+>  * Digital design (Photoshop)
 >
-> **Ссылка:** https://magicofgods.ru
+> **Link:** https://magicofgods.ru
 
-## Навыки
-Языки и фреймворки:
-* Python -- 3/5
-* JavaScript -- 2/5
-* HTML/CSS -- 4/5
-* jQuery -- 3/5
-* Bootstrap -- 3/5
+## Skills
+Languages & Frameworks:
+* Python - 3/5
+* JavaScript - 2/5
+* HTML/CSS - 4/5
+* jQuery - 3/5
+* Bootstrap - 3/5
 
-Инструменты:
-* Git -- 3/5
-* Jade (Pug) -- 4/5
-* Sass -- 3/5
+Tools:
+* Git - 3/5
+* Jade (Pug) - 4/5
+* Sass - 3/5
 
-Другое:
-* **StackOverflow -- 5/5**
+Others:
+* **StackOverflow - 5/5**
 
-## Образование
+## Education
 > *01/09/2017*
-> **Политехнический колледж**
-> *Бельцы, Молдова*
+>
+> **Polytechnic College**
+>
+> *Balti, Moldova*
 
 > *01/09/2006 -- 31/05/2015*
-> **Лицей им. А. С. Пушкина**
-> *Фалешты, Молдова*
+>
+> **Liceum A. S. Pushkin**
+>
+> *Falesti, Moldova*
 
-## Языки
-* Английский -- 3/5
-* Русский -- 5/5
-* Румынский -- 3/5
+## Languages
+* English - 3/5
+* Russian - 5/5
+* Romanian - 3/5
 
-# Другое
-## Персональная информация
-**Дата рождения:** 14/10/1999
-**Страна:** Молдова
-**Возраст:** 18
+# Other info
+## Personal
+**Date of birth:** 14/10/1999
 
-## Контакты
+**Country:** Moldova
+
+**Age:** 18
+
+## Contacts
 **GitHub:** [@powerslime](https://github.com/PowerSlime)
-**VK:** [@powerslime](https://vk.me/powerslime)
-**Telegram:** [@powerslime](https://t.me/powerslime)
-*Здесь нет e-mail'а, потому что боты моментально добавят его в свои базы данных... Я не хочу получать еще больше спама.*
 
-# Портфолио
-Не забывайте посмотреть мою страницу, там есть несколько примеров моих работ:
+**VK:** [@powerslime](https://vk.me/powerslime)
+
+**Telegram:** [@powerslime](https://t.me/powerslime)
+
+*There is no e-mail, because bots instantly will add it to their database... I don't want to receive a lot of spam.*
+
+# Portfolio
+Don’t forget to check my personal page, there are some examples of my works:
+
 https://powerslime.github.io/
